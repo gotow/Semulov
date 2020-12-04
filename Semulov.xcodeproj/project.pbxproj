@@ -243,7 +243,7 @@
 			isa = PBXProject;
 			attributes = {
 				DefaultBuildSystemTypeForWorkspace = Original;
-				LastUpgradeCheck = 1120;
+				LastUpgradeCheck = 1220;
 				ORGANIZATIONNAME = "Kevin Wojniak";
 				TargetAttributes = {
 					8D1107260486CEB800E47090 = {
